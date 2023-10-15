@@ -4,7 +4,7 @@ coders = []
 github = ["https://github.com/0fk0/discord_memobot"]
 date = 2022-10-21T13:00:00+09:00
 description = "ボットとのDMを介してメモの保存・共有ができるアプリ"
-image = "/images/portfolio/discordbot.png"
+Image = "/images/portfolio/discordbot.png"
 title = "Discord Bot"
 type = "post"
 +++

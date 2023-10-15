@@ -4,7 +4,7 @@ coders = []
 github = ["https://github.com/0fk0/Music-Alert"]
 date = 2021-12-20T13:00:00+09:00
 description = "音楽を用いて習慣化"
-image = "/images/portfolio/MusicAlert.png"
+Image = "/images/portfolio/MusicAlert.png"
 title = "Music Alert"
 type = "post"
 [[tech]]

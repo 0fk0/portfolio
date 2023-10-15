@@ -195,7 +195,7 @@ portfolio:
         - nestjs
 
     - title: Music Alert
-      image: /images/portfolio/MusicAlert.png
+      image: /images/portfolio/MusicAlert_top.png
       description: 音楽を用いて習慣化するアプリ
       link: "/portfolio/musicalert"
       tools:
