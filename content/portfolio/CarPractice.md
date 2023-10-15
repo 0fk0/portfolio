@@ -4,7 +4,7 @@ coders = ["0fk0", "Akira3085", "429uuuu"]
 github = ["https://github.com/0fk0/hamamatsu-1"]
 date = 2023-09-13T13:00:00+09:00
 description = "株式会社Relicインターンシップ"
-image = "/images/portfolio/relic.png"
+Image = "/images/portfolio/relic.png"
 title = "ペーパードライバーを救いたい"
 type = "post"
 +++

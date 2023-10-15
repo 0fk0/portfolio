@@ -4,7 +4,7 @@ coders = ["0fk0", "inadai1783"]
 github = ["https://github.com/0fk0/ox_game"]
 date = 2023-09-13T13:00:00+09:00
 description = "友人と共同で開発しました"
-image = "/images/portfolio/ox_game_play.png"
+Image = "/images/portfolio/ox_game_play.png"
 title = "オンライン対戦可能なOXゲーム"
 type = "post"
 [[tech]]

@@ -4,7 +4,7 @@ coders = []
 github = ["https://github.com/0fk0/Uroto"]
 date = 2022-02-14T13:00:00+09:00
 description = "自分用のアーティストサイト"
-image = "/images/portfolio/Uroto_top.png"
+Image = "/images/portfolio/Uroto_top.png"
 title = "Artist Site"
 type = "post"
 [[tech]]

@@ -4,7 +4,7 @@ coders = []
 github = ["https://github.com/0fk0/RoadMapper_front", "https://github.com/0fk0/RoadMapper_back"]
 date = 2023-09-20T13:00:00+09:00
 description = "最適な学習手順を提供"
-image = "/images/portfolio/roadmapper_top.png"
+Image = "/images/portfolio/roadmapper_top.png"
 title = "Road Mapper"
 type = "post"
 [[tech]]
