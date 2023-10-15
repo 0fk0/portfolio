@@ -1,0 +1,233 @@
+---
+banner:
+  title: Hi! I’m fk
+social:
+  twitter: fk_learning
+  github: 0fk0
+  zenn: f_k
+  wantedly: kenjin_fujiwara
+about:
+  enable: true
+  content: 3rd Year Computer Science Student at Shizuoka University
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: HTML
+      logo: /logos/html-5.svg
+      description: |
+        Webサイト・アプリケーションの基本的なレイアウトで用いています。
+        使用歴: 約3年
+    - title: CSS
+      logo: /logos/css-3.svg
+      description: |
+        Webサイト・アプリケーションの基本的なデザインで用いています。
+        使用歴: 約3年
+    - title: Sass
+      logo: /logos/sass.svg
+      description: |
+        Webサイト・アプリケーションの基本的なデザインで用いています。
+        使用歴: 約2年
+    - title: UIkit
+      logo: /logos/uikit.svg
+      description: |
+        CSSフレームワークの中で一番デザインが好みで使用しています。
+        使用歴: 約1年半
+    - title: JavaScript
+      logo: /logos/javascript.svg
+      description: |
+        Webサイト・アプリケーションのフロントエンドで用いています。
+        (使用歴: 約1年半)
+    - title: TypeScript
+      logo: /logos/typescript-icon.svg
+      description: |
+        Webサイト・アプリケーションのフロントエンドで用いています。
+        (使用歴: 約3ヶ月)
+    - title: React
+      logo: /logos/react.svg
+      description: |
+        Webサイト・アプリケーションのフロントエンドで用いています。
+        (使用歴: 約半年)
+    - title: Next.js
+      logo: /logos/nextjs-icon.svg
+      description: |
+        Webサイト・アプリケーションのフロントエンドで用いています。
+        最近制作したRoadMapperというWebアプリのフロントエンドで用いましたが、
+        SSGなどのいい点を引き出せていないのでまた別の制作でも用いてみたいです。
+        (使用歴: 約1か月)
+    - title: Node.js
+      logo: /logos/nodejs-icon.svg
+      description: |
+        Webサイト・アプリケーションのバックエンドで用いています。
+        学内の講義で少し直書きでサーバーを立てるということを行いました。
+        その際、少しExpressも扱いました。
+        (使用歴: 約1か月)
+    - title: Nest.js
+      logo: /logos/nestjs.svg
+      description: |
+        Webサイト・アプリケーションのフロントエンドで用いています。
+        最近制作したRoadMapperというWebアプリのバックエンドで用いました。
+        (使用歴: 約1か月)
+    - title: php
+      logo: /logos/php.svg
+      description: |
+        Webサイト・アプリケーションのバックエンドで用いています。
+        学内の講義でサーバーを高速化するという取り組みで用いたことがあります。
+        また、2023年株式会社Relicでのインターン内のWebアプリのバックエンドに用いました。
+        (使用歴: 約3か月)
+    - title: Laravel
+      logo: /logos/laravel.svg
+      description: |
+        Webサイト・アプリケーションのバックエンドで用いています。
+        学内の講義でサーバーを高速化するという取り組みで用いたことがあります。
+        また、2023年株式会社Relicでのインターン内のWebアプリのバックエンドに用いました。
+        (使用歴: 約3か月)
+    - title: Java
+      logo: /logos/java.svg
+      description: |
+        初めて学んだプログラミング言語です。
+        学内の講義でプログラミングの基礎からオブジェクト指向までをこの言語で理解しました。
+        実際に作ったものは、講義内で迷路ゲームをチームで制作しました。
+        個人開発では簡易的にメモをしてくれるDiscordBotをJDAというDiscordAPIのラッパーライブラリを用いて制作しました。
+        (使用歴: 約3年)
+    - title: C++
+      logo: /logos/c-plusplus.svg
+      description: |
+        競技プログラミング(Atcoder)などでアルゴリズムを記述するために用いています。
+        また、個人的な趣味で音楽制作をDAWソフトで行いますが、その際のDAWソフトにさせるプラグインの制作も現在進行形で行っています。
+        これにはJUCEというC++のライブラリを用いています。
+        (使用歴: 約2年)
+    - title: C#
+      logo: /logos/c-sharp.svg
+      description: |
+        主にUnityでゲームを制作する際に用いています。
+        (使用歴: 約半年)
+    - title: Unity
+      logo: /logos/unity.svg
+      description: |
+        ゲームを制作する際に用いています。最近では友人と共同開発という形でオンラインで遊べるゲームを制作しています。
+        この際にはPhoton Unity Network 2(PUN2)という外部のクラウドサービスを用いて行っています。
+        (使用歴: 約半年)
+    - title: Linux
+      logo: /logos/linux-tux.svg
+      description: |
+        作業環境として使用しています。ディストリビューションはUbuntuを使用しています。
+        学校内での仕様としてVirtualBoxを用いて仮想環境を構築し、そこでLinuxを使用しています。
+        自分用としては、WSL2を用いてWindows上でLinuxを使用しています。
+        (使用歴: 約3年)
+    - title: Docker
+      logo: /logos/docker-icon.svg
+      description: |
+        作業環境として使用しています。
+        2023年株式会社Relicでのインターン内でチームメンバーと環境を統一させるために行いました。
+        (使用歴: 約1か月)
+    - title: Git
+      logo: /logos/git.svg
+      description: |
+        開発におけるバージョン管理に用いています。
+        GitHubを用いて自分の制作物もまとめています。
+        また、共同開発時にGitを用いてバージョン管理を行っています。
+        (使用歴: 約2年)
+    - title: MySQL
+      logo: /logos/mysql.svg
+      description: |
+        Webサイト・アプリケーションのデータベースで用いています。
+        2023年株式会社Relicでのインターン内で用いました。この際は、ORMを用いたので直接SQL文を書いてはいません。
+        学校の講義内ではテーブル作成から抽出、設計段階の正規化までを行いました。
+        (使用歴: 約1年)
+    - title: PostgreSQL
+      logo: /logos/postgresql.svg
+      description: |
+        Webサイト・アプリケーションのデータベースで用いています。
+        学校の講義内ではテーブル作成から抽出、設計段階の正規化までを行いました。
+        (使用歴: 約1年)
+    
+experience:
+  enable: true
+  item:
+    - logo: /logos/program.svg
+      title: 個人開発
+      company: By myself
+      duration: 2021 - Present
+    - logo: /logos/relic.png
+      title: 5 days Summer Internship
+      company: 株式会社Relic
+      duration: August 2023
+    - logo: /logos/rekochoku.svg
+      title: 2 days hackathons
+      company: 株式会社レコチョク
+      duration: September 2023
+    - logo: /logos/unity.svg
+      title: 友人との趣味開発
+      company: With friends
+      duration: September 2023 - Present
+hackathons:
+  enable: false
+certifications:
+  enable: false
+education:
+  enable: true
+  item:
+    - title: Basic Course
+      year: 2018 - 2021
+      academy: Tsu High School
+      image: /logos//tsu_highschool.png
+    - title: Computer Science
+      year: 2021 - Present (B.S. expected in Mar.2025)
+      academy: Shizuoka University
+      image: /logos//shizuoka_univ.svg
+leadership:
+  enable: false
+portfolio:
+  enable: true
+  item:
+    - title: Road Mapper
+      image: /images/portfolio/roadmapper_top.png
+      description: 最適な学習手順を提供してくれるアプリ
+      link: "/portfolio/"
+      tools:
+        - html5
+        - sass
+        - typescript
+        - nextdotjs
+        - nestjs
+
+    - title: Music Alert
+      image: /images/portfolio/MusicAlert.png
+      description: 音楽を用いて習慣化するアプリ
+      link: "/portfolio/"
+      tools:
+        - html5
+        - sass
+        - uikit
+        - javascript
+    
+    - title: Discord Bot
+      image: /images/portfolio/discordbot.png
+      description: ボットとのDMを介してメモの保存・共有ができるアプリ
+      link: "/portfolio/"
+      tools:
+        - java
+        - discord
+
+    - title: Artist Site
+      image: /images/portfolio/Uroto.png
+      description: DTMを始めたので自分のサイトを制作した
+      link: "/portfolio/"
+      tools:
+        - html5
+        - sass
+        - javascript
+        - react
+    - title: OX Game
+      image: /images/portfolio/ox_game_play.png
+      description: 友人とゲーム制作がしたいという話になり開発
+      link: "/portfolio/unity"
+      tools:
+        - csharp
+        - unity
+  filter:
+    - label: Web Dev
+      value: web-dev
