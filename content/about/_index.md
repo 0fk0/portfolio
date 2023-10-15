@@ -3,7 +3,7 @@ title: "About"
 date: "2023-10-15"
 description: "最初のアップデート"
 author : "fk"
-authorImage : "images/about/profile.png"
+authorImage : "/images/about/profile.png"
 ---
 
 ### 所属
