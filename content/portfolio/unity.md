@@ -16,13 +16,13 @@ logo = "/logos/photon.svg"
 name = "PUN2"
 url = "https://www.photonengine.com/ja-jp"
 +++
-### ルール
+## ルール
 通常の三目並べと同様  
 
 △注意△  
 マッチングが完了するまでOXを置かないでください。途中入退室に対応していません。
 
-### 仕様
+## 仕様
 - GUI  
     - ボード(3x3)  
     - 石(ox)
@@ -37,10 +37,15 @@ url = "https://www.photonengine.com/ja-jp"
 - プラットフォーム  
     - PC(Windows)
 
-### プレイ画面
+## プレイ画面
 ![play](/images/portfolio/ox_game_play.png)
 ![wait](/images/portfolio/ox_game_wait.png)
 
-### 苦労した点
+## 使用技術
+- C#
+- Unity
+- PUN2(Photon Unity Network 2)
+
+## 苦労した点
 - Unityは少しさわったことがあったものの、raycastというマウスからレーザーが出てその先で当たり判定をつけるという処理は初めてで難しかった。
 - オンラインで動作するゲームは初めて作ったのでプレイヤーの動ける状態の管理やプレイヤー間の処理の同期を行うことが初めてで難しかった。

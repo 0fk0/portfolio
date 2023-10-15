@@ -156,7 +156,7 @@ experience:
       company: 株式会社Relic
       duration: August 2023
     - logo: /logos/rekochoku.svg
-      title: 2 days hackathons
+      title: 2 days hackathon
       company: 株式会社レコチョク
       duration: September 2023
     - logo: /logos/unity.svg
@@ -186,7 +186,7 @@ portfolio:
     - title: Road Mapper
       image: /images/portfolio/roadmapper_top.png
       description: 最適な学習手順を提供してくれるアプリ
-      link: "/portfolio/"
+      link: "/portfolio/roadmapper"
       tools:
         - html5
         - sass
@@ -197,7 +197,7 @@ portfolio:
     - title: Music Alert
       image: /images/portfolio/MusicAlert.png
       description: 音楽を用いて習慣化するアプリ
-      link: "/portfolio/"
+      link: "/portfolio/musicalert"
       tools:
         - html5
         - sass
@@ -207,15 +207,15 @@ portfolio:
     - title: Discord Bot
       image: /images/portfolio/discordbot.png
       description: ボットとのDMを介してメモの保存・共有ができるアプリ
-      link: "/portfolio/"
+      link: "/portfolio/discordbot"
       tools:
         - java
         - discord
 
     - title: Artist Site
-      image: /images/portfolio/Uroto.png
+      image: /images/portfolio/Uroto_top.png
       description: DTMを始めたので自分のサイトを制作した
-      link: "/portfolio/"
+      link: "/portfolio/uroto"
       tools:
         - html5
         - sass
