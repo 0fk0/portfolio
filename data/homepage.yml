@@ -213,8 +213,8 @@ portfolio:
         - discord
 
     - title: Artist Site
-      image: /images/portfolio/Uroto_top.png
-      description: DTMを始めたので自分のサイトを制作した
+      image: 
+      description: DTMを始めたので自分のサイトを制作した※画像削除済
       link: "/portfolio/uroto"
       tools:
         - html5
