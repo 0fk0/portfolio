@@ -13,18 +13,16 @@ name = "GitHub"
 url = "https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages"
 +++
 
-
-# Uroto
-
 ## Contents
-- News
-![news](/images/portfolio/Uroto_news.png)
-- Biography
-![news](/images/portfolio/Uroto_top.png)
-- Discography
-![disc](/images/portfolio/Uroto_disco.png)
-- Link
-![link](/images/portfolio/Uroto_link.png)
+※画像は削除しました
+- News  
+×身バレ防止×
+- Biography   
+×身バレ防止×
+- Discography  
+×身バレ防止×
+- Link  
+×身バレ防止×
 
 ## 仕様
 - SPA
